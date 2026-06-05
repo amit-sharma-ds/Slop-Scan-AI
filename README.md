@@ -20,6 +20,14 @@
 [![Live App](https://img.shields.io/badge/🚀%20Try%20It%20Live-pull--request--analyzer.vercel.app-cyan?style=flat-square)](https://pull-request-analyzer.vercel.app/)
 [![SlopScan Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-red?style=flat-square)](https://drive.google.com/file/d/1zOsdyz5BG1Vwe_ts2Lc9bhSfRHUxY9EK/view?usp=drive_link)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/amit-sharma-ds/Slop-Scan-AI/main/Screenshots/App_View.png" alt="SlopScan App View" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/amit-sharma-ds/Slop-Scan-AI/main/Screenshots/Graph-Analysis.png" alt="SlopScan Graph Analysis" width="100%"/>
+
 </div>
 
 ---
