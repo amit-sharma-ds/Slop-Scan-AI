@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 SlopScan AI
+# 🔍 SlopScan AI 
 
 ### GitHub PR Review Analyzer — Real Signals. No Noise. Zero Tolerance for Slop.
 
